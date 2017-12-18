@@ -1,0 +1,4 @@
+-libraryjars C:\WTK22\lib\midpapi20.jar;C:\WTK22\lib\cldcapi10.jar
+-injars C:\WTK22\apps\SurferRace\bin\SurferRace.jar
+-outjar C:\DOCUME~1\Carlo\IMPOST~1\Temp\SurferRace.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
